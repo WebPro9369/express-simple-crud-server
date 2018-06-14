@@ -1,0 +1,18 @@
+{
+  "name": "test-back-end",
+  "version": "0.0.0",
+  "description": "Georgios's test back-end project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "geo webguru9369@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
